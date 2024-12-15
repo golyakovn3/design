@@ -8,3 +8,7 @@
 
     **[Ссылка на файл с ДЗ](https://docs.google.com/spreadsheets/d/1r_4DoIrpcuw-OyqNgGLuw_XdRWMPch-eIHPDjtDFmjo/edit?usp=sharing)**
 
+- ### Домашнее задание №3 - Таблица принятия решений
+
+    **[Ссылка на файл с ДЗ](https://docs.google.com/spreadsheets/d/1CqnTbm19txG36cvLWqtK8TXENiLxwNomr9xykQ8cRM4/edit?usp=sharing)**
+
